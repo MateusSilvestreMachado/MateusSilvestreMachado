@@ -105,7 +105,7 @@ Me chamo Mateus Silvestre Machado, tenho 23 anos e sou estudante de Engenharia d
 
 ### 📊 Estatísticas
 
-<<p>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
