@@ -114,15 +114,6 @@ Me chamo Mateus Silvestre Machado, tenho 23 anos e sou estudante de Engenharia d
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=MateusSilvestreMachado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MateusSilvestreMachado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-
 
 
               
