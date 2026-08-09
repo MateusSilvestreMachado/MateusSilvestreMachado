@@ -9,10 +9,6 @@ Me chamo Mateus Silvestre, tenho 23 anos e sou estudante de Engenharia de Comput
          <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="mailto:mateusmachado1223@gmail.com">
          <img alt="Email" title="Envie um e-mail" src="https://custom-icon-badges.demolab.com/badge/Email-E61B23?style=for-the-badge&logo=mail&logoColor=white"/></a>
-      <a href="https://github.com/MateusSilvestreMachado?tab=followers">
-         <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MateusSilvestreMachado?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
-      <a href="https://github.com/MateusSilvestreMachado?tab=repositories&sort=stargazers">
-         <img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MateusSilvestreMachado?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
    </p>
 
 ---
