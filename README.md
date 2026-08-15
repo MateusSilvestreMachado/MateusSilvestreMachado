@@ -80,15 +80,6 @@ Tenho 23 anos e curso Engenharia de Computação (8º período) na UNIUBE. Sou e
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-   <img height="165" src="https://github-stats-extended.vercel.app/api?username=MateusSilvestreMachado&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
-   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MateusSilvestreMachado&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
-</p>
-
----
-
 ### 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mateussilvestremachado)
